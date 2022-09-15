@@ -1,0 +1,17 @@
+li{
+    float: left;
+    padding: 33px 20px;
+    list-style: none;
+}
+
+.header{
+    background-color: aqua;
+    height: 90px;
+    color: cadetblue;
+}
+
+.header-logo{
+    float: left;
+    size: 10cm;
+    padding: 20px 40px;
+}
